@@ -1,0 +1,1337 @@
+repo_name: 2lambda123/CyberChef
+report_id: 6f4cae4c74b3c9c6871a7d900069d197
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-09T06:57:23+00:00'
+requested_by: 2lambda123
+provider: github
+branch: master
+detected_tools_count: 96
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/2lambda123/CyberChef
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/CyberChef
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-12-09 19:44:31.000000000 Z
+- name: Bootstrap
+  description: Simple and flexible HTML, CSS, and JS for popular UI components and
+    interactions
+  website_url: http://getbootstrap.com/
+  version: 4.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-01-13 14:25:40.000000000 Z
+- name: D3.js
+  description: A JavaScript visualization library for HTML and SVG
+  website_url: http://d3js.org/
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: Protobuf
+  description: Google's data interchange format
+  website_url: https://developers.google.com/protocol-buffers/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-24 22:15:21.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: babel.config.js
+  last_updated_by: n1474335
+  last_updated_on: 2022-03-25 14:59:54.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/CyberChef
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/.github/workflows/codeql.yml
+  detection_source: ".github/workflows/codeql.yml"
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 18:03:33.000000000 Z
+- name: Grunt
+  description: The JavaScript Task Runner
+  website_url: http://gruntjs.com/
+  version: 1.6.1
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: Nightwatchjs
+  description: Automated testing and continous integration framework based on node.js
+    and selenium webdriver
+  website_url: http://nightwatchjs.org/
+  version: 2.6.16
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/4125/Ihf7jKaE.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.76.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: highlight.js
+  description: Syntax highlighter in JavaScript
+  website_url: https://highlightjs.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2020-12-11 16:24:39.000000000 Z
+- name: Tesseract.js
+  description: Pure JavaScript OCR for 60 Languages
+  website_url: http://tesseract.projectnaptha.com/
+  version: 3.0.3
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Analysis API
+  image_url: https://img.stackshare.io/service/5937/7720173.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2021-07-28 14:35:24.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: OTP
+  description: 'We are the OTP Team at Ericsson. #erlang'
+  website_url: http://erlang.org/doc/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5476/cbdf77412da183e43d41c0c0f9a7005a_normal.jpeg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: xmldom
+  website_url: https://github.com/jindw/xmldom
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4622/1004010.jpeg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2021-07-28 14:35:24.000000000 Z
+- name: xpath
+  description: The official Twitter account for the sum of all knowledge, Wikipedia.
+    Overseen by @jeffelder.
+  website_url: https://en.wikipedia.org/wiki/XPath
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/4621/nZXfdUQq_normal.jpg
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-09-09 19:39:28.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: "@babel/polyfill"
+  description: Provides polyfills necessary for a full ES2015+ environment
+  package_url: https://www.npmjs.com/@babel/polyfill
+  version: 7.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16039/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.20.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.21.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 9.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-24 22:15:21.000000000 Z
+- name: babel-plugin-dynamic-import-node
+  description: Babel plugin to transpile import
+  package_url: https://www.npmjs.com/babel-plugin-dynamic-import-node
+  version: 2.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16308/default_22cf6cee54c697b5a223902962cc57a55ee80be9.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: babel-plugin-transform-builtin-extend
+  description: A plugin for Babel 6 supports extending from builtin types based on
+    static analysis
+  package_url: https://www.npmjs.com/babel-plugin-transform-builtin-extend
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17556/default_99afdc7126f8a31ae778ef58d50c93ae3dd88880.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: bcryptjs
+  description: Optimized bcrypt in plain JavaScript with zero dependencies
+  package_url: https://www.npmjs.com/bcryptjs
+  version: 2.4.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16857/default_627f05e6a07ce29fc9f119417270f38e8aa5c5e2.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: bignumber.js
+  description: A library for arbitrary-precision decimal and non-decimal arithmetic
+  package_url: https://www.npmjs.com/bignumber.js
+  version: 9.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16433/default_aa91da3cee4d961f0eea8ca5de77f399ec7ec794.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-01-13 14:25:40.000000000 Z
+- name: bson
+  description: A bson parser for node.js and the browser
+  package_url: https://www.npmjs.com/bson
+  version: 4.7.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17380/default_c1932d441699b98abea6098c6f8f65e2acb4f5ed.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-01-13 14:25:40.000000000 Z
+- name: chromedriver
+  description: ChromeDriver for Selenium
+  package_url: https://www.npmjs.com/chromedriver
+  version: 119.0.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16334/default_c64b9481f9c6af91ec9ae0d9b64505998ac31ee7.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-11-09 22:19:15.000000000 Z
+- name: cli-progress
+  description: Easy to use progress-bar for command-line/terminal applications
+  package_url: https://www.npmjs.com/cli-progress
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17710/default_7ff152b9bcf219fad0d56c78a016d5bad6a2a526.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: colors
+  description: Get colors in your node.js console
+  package_url: https://www.npmjs.com/colors
+  version: 1.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15908/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2021-08-19 11:06:26.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: core-js
+  description: Standard library
+  package_url: https://www.npmjs.com/core-js
+  version: 2.6.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: crypto-browserify
+  description: Implementation of crypto for the browser
+  package_url: https://www.npmjs.com/crypto-browserify
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18055/image.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: crypto-js
+  description: JavaScript library of crypto standards
+  package_url: https://www.npmjs.com/crypto-js
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: d3
+  description: Data-Driven Documents
+  package_url: https://www.npmjs.com/d3
+  version: 7.8.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16224/default_fef27d1523ac1844fc00e83e47bddd8898ff8a89.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2016-11-28 10:42:58.000000000 Z
+- name: diff
+  description: A javascript text diff implementation
+  package_url: https://www.npmjs.com/diff
+  version: 5.1.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16509/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-06-03 21:13:44.000000000 Z
+- name: es6-promisify
+  description: Converts callback-based functions to ES6 Promises
+  package_url: https://www.npmjs.com/es6-promisify
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17236/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: escodegen
+  description: ECMAScript code generator
+  package_url: https://www.npmjs.com/escodegen
+  version: 2.0.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16563/default_7be6bee773ad8b04cf2fb7e9ff82f5d7ba648dfd.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: esprima
+  description: ECMAScript parsing infrastructure for multipurpose analysis
+  package_url: https://www.npmjs.com/esprima
+  version: 4.0.1
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16362/default_23e0dabcd0197f0c1f0a41268f8ca3f7e8b1f1e2.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2018-08-04 18:32:30.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2020-12-11 17:58:23.000000000 Z
+- name: flat
+  description: Take a nested Javascript object and flatten it
+  package_url: https://www.npmjs.com/flat
+  version: 5.0.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17025/default_88e2e076a71afdc1de87ad42c80c1606f2689af1.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2021-02-01 16:41:54.000000000 Z
+- name: grunt-concurrent
+  description: Run grunt tasks concurrently
+  package_url: https://www.npmjs.com/grunt-concurrent
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16823/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-contrib-clean
+  description: Clean files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-clean
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15939/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-contrib-connect
+  description: Start a connect web server
+  package_url: https://www.npmjs.com/grunt-contrib-connect
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16236/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-contrib-copy
+  description: Copy files and folders
+  package_url: https://www.npmjs.com/grunt-contrib-copy
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16056/default_c7b204838197013798409fa2b4dafce450edc7fb.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-contrib-watch
+  description: Run predefined tasks whenever watched file patterns are added
+  package_url: https://www.npmjs.com/grunt-contrib-watch
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15932/default_4dc9671df0093fd7061f6455afdf054e6cc9dacb.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-eslint
+  description: Validate files with ESLint
+  package_url: https://www.npmjs.com/grunt-eslint
+  version: 24.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16384/default_9ae0e75ed749aca83d89f7e1ccb309be2bfc610e.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-exec
+  description: Grunt task for executing shell commands
+  package_url: https://www.npmjs.com/grunt-exec
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16754/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: grunt-webpack
+  description: Use webpack with grunt
+  package_url: https://www.npmjs.com/grunt-webpack
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16985/default_3823aba25646a3f105cc15ee9df24fdf78972314.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 20:17:02.000000000 Z
+- name: html-webpack-plugin
+  description: Simplifies creation of HTML files to serve your webpack bundles
+  package_url: https://www.npmjs.com/html-webpack-plugin
+  version: 5.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: imports-loader
+  description: Imports loader module for webpack
+  package_url: https://www.npmjs.com/imports-loader
+  version: 4.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16422/default_cdeaf2fdc112ae29eada7343314e0eee59c7eb0d.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-24 22:15:21.000000000 Z
+- name: jimp
+  description: An image processing library written entirely in JavaScript
+  package_url: https://www.npmjs.com/jimp
+  version: 0.16.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16902/default_3260e41a86e21f9dd1deddcf0a6e09720ec49021.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: js-sha3
+  description: A simple SHA-3 / Keccak / Shake hash function for JavaScript supports
+    UTF-8 encoding
+  package_url: https://www.npmjs.com/js-sha3
+  version: 0.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18376/default_dfa436ad7e86b77a556a6a1efbcfc256ca9653ce.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2018-10-10 15:49:07.000000000 Z
+- name: jsesc
+  description: Given some data
+  package_url: https://www.npmjs.com/jsesc
+  version: 2.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17662/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2020-12-11 16:24:39.000000000 Z
+- name: json5
+  description: JSON for humans
+  package_url: https://www.npmjs.com/json5
+  version: 2.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16645/default_783b9b6c17b863f264c1418b0eb831316f741afd.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 21:27:32.000000000 Z
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 21:27:32.000000000 Z
+- name: jsrsasign
+  description: Opensource free pure JavaScript cryptographic library supports RSA/RSAPSS/ECDSA/DSA
+    signing/validation
+  package_url: https://www.npmjs.com/jsrsasign
+  version: 10.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18778/default_3be76d99a52e16f70b30a0e5904930d202d7a045.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-01-13 14:25:40.000000000 Z
+- name: loglevel
+  description: Minimal lightweight logging for JavaScript
+  package_url: https://www.npmjs.com/loglevel
+  version: 1.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17004/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-01-13 14:25:40.000000000 Z
+- name: lz-string
+  description: LZ-based compression algorithm
+  package_url: https://www.npmjs.com/lz-string
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18436/default_7c0bc528b9c47f5cc09b0c87021a81c8d72b33f3.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 13.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-06-03 21:13:44.000000000 Z
+- name: mini-css-extract-plugin
+  description: Extracts CSS into separate files
+  package_url: https://www.npmjs.com/mini-css-extract-plugin
+  version: 2.7.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15992/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: moment-timezone
+  description: Parse and display moments in any timezone
+  package_url: https://www.npmjs.com/moment-timezone
+  version: 0.5.41
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: node-forge
+  description: JavaScript implementations of network transports
+  package_url: https://www.npmjs.com/node-forge
+  version: 1.3.1
+  license: BSD-3-Clause,GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17082/default_5b9eca95ab3651165eb280ed5e0bc9a9382ad24d.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: path
+  description: Node.JS path module
+  package_url: https://www.npmjs.com/path
+  version: 0.12.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16082/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-09-09 19:39:28.000000000 Z
+- name: popper.js
+  description: A kickass library to manage your poppers
+  package_url: https://www.npmjs.com/popper.js
+  version: 1.16.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16357/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-01-13 14:25:40.000000000 Z
+- name: postcss-css-variables
+  description: PostCSS plugin to transform CSS Custom Properties
+  package_url: https://www.npmjs.com/postcss-css-variables
+  version: 0.18.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18606/default_f2cdfd90078f77b9c3f176a794cf9b84b4f1a3a2.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: postcss-import
+  description: PostCSS plugin to import CSS files
+  package_url: https://www.npmjs.com/postcss-import
+  version: 15.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16086/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: postcss-loader
+  description: PostCSS loader for webpack
+  package_url: https://www.npmjs.com/postcss-loader
+  version: 7.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15876/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-24 22:15:21.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2020-12-11 16:24:39.000000000 Z
+- name: prompt
+  description: A beautiful command-line prompt for node.js
+  package_url: https://www.npmjs.com/prompt
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16207/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-06-03 21:13:44.000000000 Z
+- name: protobufjs
+  description: Protocol Buffers for JavaScript
+  package_url: https://www.npmjs.com/protobufjs
+  version: 7.2.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16784/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-02-27 17:55:52.000000000 Z
+- name: qr-image
+  description: QR Code generator
+  package_url: https://www.npmjs.com/qr-image
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18696/default_fc5b023c2170b00beeade822bdceeaf129047406.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: j433866
+  last_updated_on: 2018-12-19 13:27:18.000000000 Z
+- name: reflect-metadata
+  description: Polyfill for Metadata Reflection API
+  package_url: https://www.npmjs.com/reflect-metadata
+  version: 0.1.13
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16019/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-12-09 11:39:22.000000000 Z
+- name: sortablejs
+  description: JavaScript library for reorderable drag-and-drop lists on modern browsers
+    and touch devices
+  package_url: https://www.npmjs.com/sortablejs
+  version: 1.15.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17481/default_188fa5cbc974fa18aed5a9b1f0d7f2bfaf8f1648.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-03-28 14:42:11.000000000 Z
+- name: terser
+  description: JavaScript parser
+  package_url: https://www.npmjs.com/terser
+  version: 5.16.6
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16562/default_536789d2630ed352dc721a1c915ab456b7660201.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: ua-parser-js
+  description: Lightweight JavaScript-based user-agent string parser
+  package_url: https://www.npmjs.com/ua-parser-js
+  version: 1.0.34
+  license: AGPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17510/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: utf8
+  description: A well-tested UTF-8 encoder/decoder written in JavaScript
+  package_url: https://www.npmjs.com/utf8
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17864/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2017-12-25 23:11:52.000000000 Z
+- name: webpack-bundle-analyzer
+  description: Webpack plugin and CLI utility that represents bundle content as convenient
+    interactive zoomable treemap
+  package_url: https://www.npmjs.com/webpack-bundle-analyzer
+  version: 4.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: webpack-dev-server
+  description: Serves a webpack app. Updates the browser on changes
+  package_url: https://www.npmjs.com/webpack-dev-server
+  version: 4.11.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-13 17:51:25.000000000 Z
+- name: webpack-node-externals
+  description: Easily exclude node_modules in Webpack bundle
+  package_url: https://www.npmjs.com/webpack-node-externals
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16156/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-07-14 17:37:02.000000000 Z
+- name: worker-loader
+  description: Worker loader module for webpack
+  package_url: https://www.npmjs.com/worker-loader
+  version: 3.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17526/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2023-03-24 22:15:21.000000000 Z
+- name: xmldom
+  description: A W3C Standard XML DOM
+  package_url: https://www.npmjs.com/xmldom
+  version: 0.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16502/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2021-07-28 14:35:24.000000000 Z
+  vulnerabilities:
+  - name: xmldom allows multiple root nodes in a DOM
+    cve_id: CVE-2022-39353
+    cve_url: https://github.com/advisories/GHSA-crh6-fp67-6883
+    detected_date: Nov 2
+    severity: critical
+    first_patched: 
+  - name: 'Withdrawn: Improperly Controlled Modification of Object Prototype Attributes
+      (''Prototype Pollution'') in @xmldom/xmldom and xmldom'
+    cve_id: CVE-2022-37616
+    cve_url: https://github.com/advisories/GHSA-9pgh-qqpf-7wqj
+    detected_date: Oct 12
+    severity: critical
+    first_patched: 
+  - name: Misinterpretation of malicious XML input
+    cve_id: CVE-2021-32796
+    cve_url: https://github.com/advisories/GHSA-5fg8-2547-mr8q
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.7.0
+- name: xpath
+  description: DOM 3 XPath implemention and helper for node.js
+  package_url: https://www.npmjs.com/xpath
+  version: 0.0.32
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17813/default_abcc2eea82e62d338a749f334647866df76198b8.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-09-09 19:39:28.000000000 Z
+- name: xregexp
+  description: Extended regular expressions
+  package_url: https://www.npmjs.com/xregexp
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17673/default_9126b5a628d81e3d41c9b1190587ab1aec9165c5.png
+  detection_source_url: https://github.com/2lambda123/CyberChef/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: n1474335
+  last_updated_on: 2022-12-09 19:44:31.000000000 Z
